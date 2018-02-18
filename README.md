@@ -1,4 +1,4 @@
 
 # 💻 new-mac-setup
 
-> Scripts to setup a new Mac
+> Scripts to setup a new Mac.
